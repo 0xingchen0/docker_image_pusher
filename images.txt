@@ -4,4 +4,4 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-nite07/sub2clash:latest
+nite07/sub2clash:1.0.1
